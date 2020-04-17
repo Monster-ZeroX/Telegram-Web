@@ -11,7 +11,7 @@ switch (location.hostname) {
     defaultBaseUrl = 'https://zhukov.github.io/webogram/#/im'
     break
   default:
-  case 'web.telegram.org':
+  case 'web.telegram.ind.in':
     defaultBaseUrl = 'https://' + location.hostname + '/#/im'
 }
 
@@ -371,7 +371,7 @@ self.addEventListener('notificationclose', onCloseNotification)
           reject(error)
         }
       })
-      
+
     })
   }
 
