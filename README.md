@@ -16,7 +16,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 * https://*.web.telegram.org
 * `*` can be replaced with ["pluto","venus","aurora","vesta","flora"]
 * `*` can be replaced with ["pluto-1","venus-1","aurora-1","vesta-1","flora-1"]
-* I've added these APIs directly into base domain using Proxy and making it accessible via Single domain.
+* I've added these APIs directly into base domain/subdomain using Proxy and making it accessible via Single domain.
 
 ## List of Domains
 
