@@ -55,6 +55,6 @@ We created this Code of Conduct because it reinforces the respect that we, as a 
 
 We welcome your feedback on this and every other aspect of what we do at Stack Overflow and the Stack Exchange network. Thank you for working with us to build a kind, collaborative, and respectful community.
 
-[This page at GitHub](https://github.com/TelegramWeb/web.telegram.org/blob/master/docs/en/code-of-conduct.md)
+[This page at GitHub](https://github.com/TelegramWeb/web.telegram.org/blob/master/code-of-conduct.md)
 
 Chats are supported by Bhadoo Cloud developers community.
