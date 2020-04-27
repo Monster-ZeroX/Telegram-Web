@@ -31,7 +31,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 
 ## What it does?
 
-* We've changed https://pluto.web.telegram.org to https://web.telegram.ind.in/api/pluto and same for all other URLs.
+* We've changed https://pluto.web.telegram.org to https://pluto.telegram.ind.in and same for all other URLs. This can also be changed to https://web.telegram.ind.in/api/pluto after integrated tests for speed and performance.
 
 ## Where to deploy
 
