@@ -40,7 +40,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 
 ## Credit
 
-* zhukov for https://github.com/zhukov/webogram/tree/gh-pages
+* zhukov for https://github.com/zhukov/webogram/tree/gh-pages (Last sync as of Feb 19, 2020)
 
 ## Configured by
 
