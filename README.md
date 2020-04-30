@@ -31,16 +31,17 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 
 ## What it does?
 
-* We've changed https://pluto.web.telegram.org to https://pluto.telegram.ind.in and same for all other URLs. This can also be changed to https://web.telegram.ind.in/api/pluto after integrated tests for speed and performance.
+* We've changed https://pluto.web.telegram.org to https://pluto.web.telegram.ind.in and same for all other URLs. This can also be changed to https://web.telegram.ind.in/api/pluto after integrated tests for speed and performance.
 
 ## Where to deploy
 
-* Currently this App can only be used on Netlify as it is configured to used on Netlify.
+* Currently this App can only be used on Netlify as it is configured to be used on Netlify.
 * Deploying this app directly on any other platform will create known issuse and it'll not work at all.
 
 ## Credit
 
 * zhukov for https://github.com/zhukov/webogram/tree/gh-pages (Last sync as of Feb 19, 2020)
+* Thanks to Netlify for their Generous Open-Source Plan.
 
 ## Configured by
 
