@@ -28,6 +28,10 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 * https://telegram.ind.in
 * https://core.telegram.ind.in
 * https://web.telegram.ind.in
+* https://my.telegram.ind.in
+* https://translations.telegram.ind.in
+* https://instantview.telegram.ind.in
+* https://l.telegram.ind.in/Telegram (Telegram Share System)
 
 ## What it does?
 
