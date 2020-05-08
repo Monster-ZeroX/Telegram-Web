@@ -1,6 +1,6 @@
 # web.telegram.org alternative client
 
-Un-Official Un-edited Telegram Web Client with Different Domains
+Un-Official Un-edited Telegram Web Client
 
 Code from https://github.com/zhukov/webogram/tree/gh-pages
 
@@ -40,7 +40,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 ## Where to deploy
 
 * Currently this App can only be used on Netlify as it is configured to be used on Netlify.
-* Deploying this app directly on any other platform will create known issuse and it'll not work at all.
+* Deploying this app directly on any other platform will create known issue and it'll not work at all.
 
 ## Credit
 
@@ -49,7 +49,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 
 ## Configured by
 
-* Parveen Bhadoo (https://www.google.com/search?q=Parveen+Bhadoo)
+* TheFirstSpeedster (https://l.telegram.ind.in/TheFirstSpeedster)
 
 ## Hosted By GitHub and Deployed by Netlify
 
