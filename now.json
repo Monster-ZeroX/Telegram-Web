@@ -1,0 +1,14 @@
+{
+  "routes": [
+    { "src": "/api/pluto", "dest": "https://pluto.web.telegram.org" },
+    { "src": "/api/venus", "dest": "https://venus.web.telegram.org" },
+    { "src": "/api/aurora", "dest": "https://aurora.web.telegram.org" },
+    { "src": "/api/vesta", "dest": "https://vesta.web.telegram.org" },
+    { "src": "/api/flora", "dest": "https://flora.web.telegram.org" },
+    { "src": "/api/pluto-1", "dest": "https://pluto-1.web.telegram.org" },
+    { "src": "/api/venus-1", "dest": "https://venus-1.web.telegram.org" },
+    { "src": "/api/aurora-1", "dest": "https://aurora-1.web.telegram.org" },
+    { "src": "/api/vesta-1", "dest": "https://vesta-1.web.telegram.org" },
+    { "src": "/api/flora-1", "dest": "https://flora-1.web.telegram.org" }
+  ]
+}
