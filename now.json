@@ -1,6 +1,6 @@
 {
   "routes": [
-    { "src": "/api/pluto", "dest": "https://pluto.web.telegram.org" },
+    { "src": "https://pluto.web.telegram.org", "dest": "/api/pluto" },
     { "src": "/api/venus", "dest": "https://venus.web.telegram.org" },
     { "src": "/api/aurora", "dest": "https://aurora.web.telegram.org" },
     { "src": "/api/vesta", "dest": "https://vesta.web.telegram.org" },
