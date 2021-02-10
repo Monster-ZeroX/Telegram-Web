@@ -41,8 +41,14 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 
 ## Where to deploy
 
-* Currently this App can only be used on Netlify as it is configured to be used on Netlify.
+* Currently this App can only be used on Netlify and Vercel.
 * Deploying this app directly on any other platform will create known issue and it'll not work at all.
+
+## Deploy on Vercel and Netlify
+
+* [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2FTelegramWeb%2Fweb.telegram.org&project-name=telegram-web&repo-name=telegram-web-proxy&redirect-url=https%3A%2F%2Ft.telegram.ind.in%2FBhadooCloud)
+* [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FTelegramWeb%2Fweb.telegram.org)
+* You can use custom domains on this too to avoid blocking of domains when used for public.
 
 ## Credit
 
