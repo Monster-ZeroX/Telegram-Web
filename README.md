@@ -1,5 +1,7 @@
 # web.telegram.org alternative client
 
+[![](https://data.jsdelivr.com/v1/package/gh/TelegramWeb/web.telegram.org/badge)](https://www.jsdelivr.com/package/gh/TelegramWeb/web.telegram.org)
+
 Un-Official Un-edited Telegram Web Client
 
 Code from https://github.com/zhukov/webogram/tree/gh-pages
@@ -52,7 +54,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 
 ## Credit
 
-* zhukov for https://github.com/zhukov/webogram/tree/gh-pages (Last sync as of Feb 19, 2020)
+* zhukov for https://github.com/zhukov/webogram/tree/gh-pages (Last sync as of Jan 29, 2021)
 * Thanks to Netlify for their Generous Open-Source Plan.
 
 ## Configured by
