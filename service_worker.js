@@ -27,7 +27,7 @@
 
 
 
-importScripts("js/lib/push_worker.js");
+importScripts("https://cdn.jsdelivr.net/gh/TelegramWeb/web.telegram.org/js/lib/push_worker.js");
 
 
 /* eslint-disable quotes, comma-spacing */
