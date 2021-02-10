@@ -25,7 +25,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 * https://web.telegram.org (hosted on Telegram servers, Permanent Domain)
 * https://web.telegram.ind.in (Works in All Countries, Please let us know if your country blocks this in future, we'll enable another domain name.)
 * https://telegram-web.netlify.app (Another Domain to access)
-* https://web-telegram-org.vercel.app (Works Fine but work in progress)
+* https://web-telegram-org.vercel.app (Another Domain to access)
 
 ## Telegram Proxy URLs without using VPN
 
@@ -39,7 +39,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 
 ## What it does?
 
-* We've changed https://pluto.web.telegram.org to https://pluto.web.telegram.ind.in and same for all other URLs. This can also be changed to https://web.telegram.ind.in/api/pluto after integrated tests for speed and performance.
+* We've changed https://pluto.web.telegram.org to https://<basedomain>/api/pluto and same for all other URLs.
 
 ## Where to deploy
 
