@@ -9,9 +9,11 @@ Code from https://github.com/zhukov/webogram/tree/gh-pages
     Don't want to know how this work, but need to access Telegram Web Try below link.
 https://web.telegram.ind.in
 
+## New: Bypass ISP Blocks using your own Domain
+
 ## Why this Repo?
 
-Telegram is banned in several countries, in India Telegram is blocked on several networks including Jio and Airtel. So in this repo i will continuously provide new domains to access Telegram without compromising privacy or security of your data.
+Telegram is banned in several countries, in India Telegram is blocked on several networks including Jio and Airtel. So in this repo i will continuously provide new domains to access Telegram without compromising privacy or security of your data. You can now create your own telegram app on your custom domain so bypass blocks.
 
 ## Blocked URLs by Different Countries
 
