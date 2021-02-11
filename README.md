@@ -22,12 +22,24 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 * `*` can be replaced with ["pluto-1","venus-1","aurora-1","vesta-1","flora-1"]
 * I've added these APIs directly into base domain/subdomain using Proxy and making it accessible via Single domain.
 
-## List of Domains
+### Maintained locations
 
-* https://web.telegram.org (hosted on Telegram servers, Permanent Domain)
-* https://web.telegram.ind.in (Works in All Countries, Please let us know if your country blocks this in future, we'll enable another domain name.)
-* https://telegram-web.netlify.app (Another Domain to access)
-* https://web-telegram-org.vercel.app (Another Domain to access)
+| Hosted on        | URL           | API  | Bandwidth (Monthly) |
+| ------------- |-------------| -----|-------------:|
+| Telegram servers      | https://web.telegram.org | *.web.telegram.org | Unlimited
+| GitHub pages      | https://zhukov.github.io/webogram | *.web.telegram.org | Unlimited
+| Netlify      | https://web.telegram.ind.in | /api/* | 400 GB
+| Netlify      | https://telegram-web.netlify.app | /api/* | Shared with Above
+| Netlify      | https://telegram-web.tk | /api/* | 100 GB
+| Netlify      | https://telegram-web.ml | /api/* | 100 GB
+| Netlify      | https://telegram-web.ga | /api/* | 100 GB
+| Netlify      | https://telegram-web.cf | /api/* | 100 GB
+| Netlify      | https://telegram-web.gq | /api/* | 100 GB
+| Vercel      | https://web-telegram-org.vercel.app | /api/* | 1000 GB
+
+````
+* is pluto, venus, aurora, vesta, flora, pluto-1, venus-1, aurora-1, vesta-1 and flora-1
+````
 
 ## Telegram Proxy URLs without using VPN
 
