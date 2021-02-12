@@ -27,7 +27,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 | Hosted on        | URL           | API  | Bandwidth (Monthly) |
 | ------------- |-------------| -----|-------------:|
 | Telegram servers      | https://web.telegram.org | *.web.telegram.org | Unlimited
-| GitHub pages      | https://zhukov.github.io/webogram | *.web.telegram.org | Unlimited
+| GitHub pages      | https://zhukov.github.io/webogram | *.web.telegram.org | 100 GB Soft
 | Netlify      | https://web.telegram.ind.in | /api/* | 400 GB
 | Netlify      | https://telegram-web.netlify.app | /api/* | Shared with Above
 | Netlify      | https://telegram-web.tk | /api/* | 100 GB
